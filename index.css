@@ -4,7 +4,7 @@ p{
 
 }
 *{
-background-image:url(../img/istockphoto-1156032243-612x612.jpg);
+background-image:url("img/istockphoto-1156032243-612x612.jpg");
 background-repeat: no-repeat;
 margin:0px;
 background-size: cover;
